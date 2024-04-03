@@ -1,13 +1,12 @@
 # stereo-fouille-fivem
-======================
+========== FR ========== 
 
 Fouille de poubelle en OxTarget pour Fivem. 
 
 Le delai pour pouvoir refouiller est conservé avec le reboot serveur et/ou la deco-reco du joueur. 
 
 
-===================================================================================================================================
-
+========== EN ========== 
 
 Trash search in OxTarget for Fivem.
 
