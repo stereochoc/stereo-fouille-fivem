@@ -13,6 +13,10 @@ Trash search in OxTarget for Fivem.
 The time limit for being able to search again is preserved with the server reboot and/or the player's deco-reco.
 
 
+
+
+
 Dépendances / dependencies 
+--------------------------
 
 OxTarget : https://github.com/overextended/ox_target
