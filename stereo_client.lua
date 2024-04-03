@@ -32,6 +32,8 @@ local OptionsInteractionTrash = {
 }
 
 Citizen.CreateThread(function()
+    print("====================================== Loading Stereo-fouille =======================================")
+    print("====================================== https://discord.gg/5dev ======================================")
     if Config.UseLegacy then
         ESX = exports["es_extended"]:getSharedObject()       
     else 
