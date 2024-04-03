@@ -19,3 +19,7 @@ The time limit for being able to search again is preserved with the server reboo
 OxTarget : https://github.com/overextended/ox_target
 
 Au choix : oxmysql, ghmattimysql, mysql-async
+
+
+# Script réalisé pour 5DEV
+https://discord.gg/5dev
