@@ -16,7 +16,6 @@ The time limit for being able to search again is preserved with the server reboo
 
 
 
-Dépendances / dependencies 
---------------------------
+# Dépendances / dependencies 
 
 OxTarget : https://github.com/overextended/ox_target
